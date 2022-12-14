@@ -6,8 +6,9 @@ Example data analytics portfolio
 * Cheaper lenses are thicker but have less chromatic aberration. 
 * This color spiting at the peripheral of the lens like a prism is especially pronounced with LED read outs and white street lights.
 * This aberration harms the resolution and usability of the lenses at their edges.
+* Night driving, large TVs, and LED signs are particularly problimatic when experancing chromatic aberration.
 * Cheap lenses are always thicker which is why expensive lenses are often encouraged by sales associates.
-* However, if the lenses do not protured out of the frame, then the thickness does not matter. 
+* However, if the lenses do not protured out of the frame, then the thickness is not noticed. 
 * This calculation provided me with better vision quality and $150 savings.
 
 
