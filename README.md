@@ -8,7 +8,7 @@ Example data analytics portfolio
 * This aberration harms the resolution and usability of the lenses at their edges.
 * Cheap lenses are always thicker which is why expensive lenses are often encouraged by sales associates.
 * However, if the lenses do not protured out of the frame, then the thickness does not matter. 
-* This calculation provided me with better vision quality and $100 savings.
+* This calculation provided me with better vision quality and $150 savings.
 
 
 # [Project 2: Tableau Visualizations & Dashboards](https://public.tableau.com/app/profile/lloyd.breunig#!/?newProfile=&activeTab=0)
