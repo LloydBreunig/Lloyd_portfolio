@@ -11,6 +11,7 @@
 * I wrote a program that gets only the weather data we need with the smallest internet bandwith.
 * Normal apps download video & hi resolution images making them inoperable in the wilderness.
 * This app only downloads simple JSON files and does all the rendering locally.
+* To our great delight, this program worked eliminating the need to drive to the tallest ridge in the region for weather reports.
 
 # [Project 2: Rx Lens Thickness Calculator](https://github.com/LloydBreunig/Lloyd_portfolio/blob/main/Rx%20glasses%20shiny%20app.R)
 * This R Shiny app calculates and visualizes the thickness of lenses in Rx glasses. 
