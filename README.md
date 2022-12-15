@@ -30,6 +30,6 @@ Example data analytics portfolio
 
 # [LinkedIn](https://www.linkedin.com/in/lloyd-b-48bb95148/)
 
-# [Google Data Analytics Certificate from Coursera]
+# [Google Data Analytics Certificate from Coursera]()
 
-# [Master SQL For Data Science Certificate program from Udemy]
+# [Master SQL For Data Science Certificate program from Udemy]()
