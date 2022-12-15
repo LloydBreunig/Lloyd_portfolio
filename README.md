@@ -1,5 +1,4 @@
 # Lloyd Breunig's portfolio
-Example data analytics portfolio
 
 # [Project 1: Weather Report](https://github.com/LloydBreunig/Lloyd_portfolio/blob/main/weather_project.ipynb)
 * This Python project pulls data from 3 different APIs.
@@ -28,7 +27,7 @@ Example data analytics portfolio
 * This links to my Tableau public site.
 * There are multiple visualiations & dashboard examples of my Tableau skills.
 
-# [Course Work & Certifications]()
+# Course Work & Certifications
 * Google Data Analytics Certification
 * Master SQL for Data Science certificate program from Udemy
 * Tableau Data Analyst/Specialist Dektop Certification course from Udemy
