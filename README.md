@@ -28,9 +28,11 @@ Example data analytics portfolio
 * There are multiple visualiations & dashboard examples of my Tableau skills.
 * 
 
-# [Certifications]()
+# [Course Work & Certifications]()
 * Google Data Analytics Certification
 * Master SQL for Data Science certificate program from Udemy
+* Tableau Data Analyst/Specialist Dektop Certification course from Udemy
+* The Complete Pandas Bootcamp 2022: Data Science with Python course from Udemy
 
 # [LinkedIn](https://www.linkedin.com/in/lloyd-b-48bb95148/)
 
